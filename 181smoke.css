@@ -1,0 +1,202 @@
+@font-face {
+    font-family: Oswald; 
+    src: url(Oswald-Medium.ttf);
+}
+
+body{
+	background-color:#E5E7EA;
+	font-family: arial;
+	font-size: 12px;;
+}
+
+#coor{
+	position:absolute;
+	color:#F0F0F0;
+	left:1200px;
+	top:30px;
+	font-size:18px;
+}
+
+/* onClick="window.open('')" */
+
+/* mapPictures */
+
+#mapmirage{
+	position:absolute;
+	left:270px;
+	top:15px;
+	width:880 px;
+	display:none;
+	z-index:-1;
+}
+
+#mapinferno{
+	position:absolute;
+	left:270px;
+	top:15px;
+	widht:880px;
+	display:none;
+	z-index:-1;
+}
+
+#mapcache{
+	position:absolute;
+	left:270px;
+	top:15px;
+	widht:880px;
+	display:none;
+	z-index:-1;
+}
+
+#mapoverpass{
+	position:absolute;
+	left:270px;
+	top:15px;
+	widht:880px;
+	display:none;
+	z-index:-1;
+}
+
+#maptrain{
+	position:absolute;
+	left:270px;
+	top:15px;
+	widht:880px;
+	display:none;
+	z-index:-1;
+}
+
+#mapnuke{
+	position:absolute;
+	left:270px;
+	top:15px;
+	widht:880px;
+	display:none;
+	z-index:-1;
+}
+
+#mapdust2{
+	position:absolute;
+	left:270px;
+	top:15px;
+	widht:880px;
+	display:none;
+	z-index:-1;
+}
+
+#toptext{
+	text-align:center;
+}
+
+#toptext:hover{
+	color:154166;
+}
+
+#text{
+	position:absolute;
+	left:275px;
+	color:#F0F0F0;
+}
+
+.tag{
+	position:relative;
+	left:0px;
+	display:block;
+	color:#353535; 
+	padding-left:30px;
+	padding-right:30px;
+	padding-top:14px;
+	padding-bottom:14px;
+	border-bottom:2px solid #CCCCCC;
+	text-align:center;
+
+}
+
+.map{
+	position:relative;
+	left:0px;
+	display:block;
+	color:#353535; 
+	padding-left:30px;
+	padding-right:30px;
+	padding-top:14px;
+	padding-bottom:14px;
+	border-bottom:2px solid #CCCCCC;
+	text-align:center;
+
+}
+
+.mappic{
+	widht:880px;
+	height:880px;
+	box-shadow:2px 2px 4px #ADADAD;
+	border-left:1px solid #CCCCCC;
+}
+
+.map:hover{
+	color:#154166;
+}
+
+/* buttonsmaps */
+
+#cache{
+	position:relative;
+}
+
+#dust2{
+	position:relative;
+}
+
+#inferno{
+	position:relative;
+}
+
+#mirage{
+	position:relative;
+}
+
+#nuke{
+	position:relative;
+}
+
+#overpass{
+	position:relative;
+}
+
+#train{
+	position:relative;
+}
+
+#menu{
+	position:absolute;
+	height:100vh;
+	widht:250px;
+	top:0px;
+	left:0px;
+	background-color:#FFFFFF;
+	z-index:5;
+	text-align:left;
+	opacity:1;
+	box-shadow:1px 0px 3px #ADADAD;
+}
+
+#tags{
+	position:absolute;
+	top:15px;
+	left:155px;
+	background-color:#FFFFFF;
+	z-index:5;
+	text-align:left;
+	opacity:1;
+	border-top:1px solid #CCCCCC;
+	border-left:1px solid #CCCCCC;
+	display:none;
+}
+
+.map:hover{
+	background-color:#EDEDEF;
+}
+
+.tag:hover{
+	background-color:#EDEDEF;
+}

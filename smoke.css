@@ -1,0 +1,527 @@
+/* POSITIONS */
+
+.posmirage{
+	position:absolute;
+	left:800px;
+	top:750px;
+	z-index:2;
+	border:1px solid #AF002A;
+	border-radius:10px;
+	color:#090913;
+	opacity:0.55;
+	align:center;
+	background-color:#AF002A;
+	padding:6px;
+	display:none;
+}
+
+.posmirage:hover{
+	opacity:1;
+}
+
+/* CT */
+
+#ctfromt1{
+	left:970px;
+	top:480px;
+}
+
+#ctfromt2{
+	left:1007px;
+	top:477px;
+}
+
+#ctfromunder{
+	left:645px;
+	top:380px;
+}
+
+#ctfromjungle{
+	left:600px;
+	top:517px;
+}
+
+#ctfromup{
+	left:1037px;
+	top:462px;
+}
+
+/* JUNGLE CONNECTOR */
+
+#junconfromroof{
+	left:957px;
+	top:566px;
+}
+
+#junconfromunder{
+	left:652px;
+	top:390px;
+}
+
+/* STAIRS */
+
+#stairsfromt{
+	left:1020px;
+	top:507px;
+}
+
+/* JUNGLE */
+
+#junglefromt{
+	left:957px;
+	top:566px;
+}
+
+#junglefromtetris{
+	left:815px;
+	top:546px;
+}
+
+/* TOP CONNECTOR */
+
+#topconfromtspawn{
+	left:1065px;
+	top:295px;
+}
+
+#topconfromroof{
+	left:957px;
+	top:566px;
+}
+
+#topconfromapps{
+	left:790px;
+	top:148px;
+}
+
+#topconfromunder{
+	left:645px;
+	top:380px;
+}
+
+/*SHORT MID*/
+
+#shortmidfromramp{
+	left:959px;
+	top:597px;
+}
+
+#shortmidfromtopmid{
+	left:885px;
+	top:422px;
+}
+
+#shortmidfromtspawn{
+	left:1065px;
+	top:310px;
+}
+
+/* SHORT */
+
+#shortfromup{
+	left:1037px;
+	top:462px;
+}
+
+/* DEEP APPS */
+
+#deepappsfromct{
+	left:524px;
+	top:513px;
+}
+
+#deepappsfrombsite{
+	left:496px;
+	top:270px;
+}
+
+/* WINDOW */
+
+#windowfromtopmid{
+	left:879px;
+	top:407px;
+}
+
+#windowfromt{
+	left:1015px;
+	top:510px;
+}
+
+/* START */
+
+#startfromtspawn{
+	left:1064px;
+	top:289px;
+}
+
+/* A SITE */
+
+#asitefromroof{
+	left:959px;
+	top:553px;
+}
+
+#asitefromtspawn{
+	left:1064px;
+	top:372px;
+}
+
+/* A DEFOULT */
+
+#adefaultfromup{
+	left:1037px;
+	top:462px;
+}
+
+/* PALACE */
+
+#palacefromct{
+	left:523px;
+	top:434px;
+}
+
+#palacefromb{
+	left:498px;
+	top:242px;
+}
+
+/* CAR */
+
+#carfromapps{
+	left:793px;
+	top:240px;
+}
+
+#carfromappscor{
+	left:790px;
+	top:148px;
+}
+
+/* SHORT B */
+/* SHORT 1 */
+/* SHORT 2*/
+
+/* CONNECTOR */
+
+#connectorfromts{
+	left:1016px;
+	top:190px;
+}
+
+/* KITCHEN DOOR */
+
+#kitchendoorfromapps{
+	left:790px;
+	top:148px;
+}
+
+/* KITCHEN WIN */
+
+#kitchenwinfromapps{
+	left:790px;
+	top:148px;
+}
+
+/* B BACK */
+
+#bbackfromapps{
+	left:680px;
+	top:194px;
+}
+
+/* BENCH */
+
+#benchfromapps{
+	left:697px;
+	top:214px;
+}
+
+.poscache{
+	position:absolute;
+	left:800px;
+	top:750px;
+	z-index:2;
+	border:1px solid #AF002A;
+	border-radius:10px;
+	color:#090913;
+	opacity:0.55;
+	align:center;
+	background-color:#AF002A;
+	padding:6px;
+	display:none;
+}
+
+.poscache:hover{
+	opacity:1;
+}
+
+/* YELRED */
+
+#yelredfromcor{
+	left:780px;
+	top:267px;
+}
+
+#yelredfromcont{
+	left:934px;
+	top:459px;
+}
+
+/* CONNECTOR */
+
+#connectorfromcar{
+	left:856px;
+	top:394px;
+}
+
+#connectorfromAA{
+	left:738px;
+	top:424px;
+}
+
+/* Z */
+
+#zfromt{
+	left:956px;
+	top:521px;
+}
+
+#zfromcar{
+	left:856px;
+	top:380px;
+}
+
+/* HEAVEN A */
+
+#heavenafromcor{
+	left:780px;
+	top:267px;
+}
+
+/* HEAVEN B */
+
+#heavenbfrombmain{
+	left:629px;
+	top:634px;
+}
+
+/* A SITE */
+
+#cacheasitefromcont{
+	left:992px;
+	top:456px;
+}
+
+#cacheasitefromamain{
+	left:723px;
+	top:265px;
+}
+
+/* SMOKES by maps */
+
+.smokemirage{
+	position:absolute;
+	z-index:1;
+	border:2px solid #B8B8B8;
+	border-radius:25px;
+	color:#090913;
+	opacity:0.6;
+	align:center;
+	background-color:#B8B8B8;
+	padding:14px;
+	display:none;
+}
+
+.smokemirage:hover{
+	opacity:1;
+}
+
+.smokecache{
+	position:absolute;
+	z-index:1;
+	border:2px solid #B8B8B8;
+	border-radius:25px;
+	color:#090913;
+	opacity:0.6;
+	align:center;
+	background-color:#B8B8B8;
+	padding:14px;
+	display:none;
+}
+
+.smokecache:hover{
+	opacity:1;
+}
+
+.smokedust2{
+	position:absolute;
+	z-index:1;
+}
+
+.smokeoverpass{
+	position:absolute;
+	z-index:1;
+}
+
+.smokenuke{
+	position:absolute;
+	z-index:1;
+}
+
+.smokeinferno{
+	position:absolute;
+	z-index:1;
+}
+
+.smoketrain{
+	position:absolute;
+	z-index:1;
+}
+
+/* SMOKES */
+
+/* MIRAGE */
+
+#miragect{
+	left:648px;
+	top:707px;
+}
+
+#miragejuncon{
+	left:692px;
+	top:571px;
+}
+
+#miragestairs{
+	left:732px;
+	top:568px;
+}
+
+#miragejungle{
+	left:650px;
+	top:542px;
+}
+
+#miragetopcon{
+	left:695px;
+	top:522px;
+}
+
+#mirageshortmid{
+	left:672px;
+	top:342px;
+}
+
+#mirageshort{
+	left:670px;
+	top:287px;
+}
+
+#miragedeepapps{
+	left:637px;
+	top:192px;
+}
+
+#miragewindow{
+	left:610px;
+	top:399px;
+}
+
+#miragestart{
+	left:798px;
+	top:368px;
+}
+
+#mirageasite{
+	left:740px;
+	top:643px;
+}
+
+#mirageadefault{
+	left:760px;
+	top:674px;
+}
+
+#miragepalace{
+	left:815px;
+	top:675px;
+}
+
+#miragecar{
+	left:461px;
+	top:164px;
+}
+
+#mirageshortb{
+	left:610px;
+	top:260px;
+}
+
+#mirageshortb1{
+	left:552px;
+	top:214px;
+}
+
+#mirageshortb2{
+	left:552px;
+	top:260px;
+}
+
+#mirageconnector{
+	left:695px;
+	top:441px;
+}
+
+#miragekitchendoor{
+	left:407px;
+	top:341px;
+}
+
+#miragekitchenwin{
+	left:482px;
+	top:340px;
+}
+
+#miragebback{
+	left:453px;
+	top:274px;
+}
+
+#miragebench{
+	left:419px;
+	top:197px;
+}
+
+/* CACHE */
+
+
+
+#cacheyelred{
+	left:570px;
+	top:279px;
+}
+
+#cacheconnector{
+	left:544px;
+	top:344px;
+}
+
+#cachez{
+	left:521px;
+	top:509px;
+}
+
+#cacheheavena{
+	left:555px;
+	top:304px;
+}
+
+#cacheheavenb{
+	left:511px;
+	top:622px;
+}
+
+#cacheasite{
+	left:511px;
+	top:263px;
+}
