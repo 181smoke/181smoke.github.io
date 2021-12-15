@@ -1,0 +1,102 @@
+body{
+    font-size: 18px;
+}
+
+table {
+    border: 2px solid darkgrey;
+    border-collapse: collapse;
+    background-image: url("https://image.freepik.com/free-vector/background-paper-art-style-can-be-used-in-website-backgrounds-or-advertising-white-abstract-texture-white-background-v_74231-301.jpg");
+}
+
+th {
+    text-align: center;
+    border: 2px solid darkgrey;
+    padding: 2px 4px;
+}
+
+td {
+    text-align: center;
+    border: 2px solid darkgrey;
+    padding: 2px 4px;
+}
+
+.menulinkli{
+    padding-top: 25px;
+    padding-bottom: 25px;
+    border-bottom: 2px solid darkgrey;
+    text-align: center;
+
+}
+
+.menulink{
+    text-decoration: none;
+    color: black;
+}
+
+.main{
+    position: relative;
+    width: 100%;
+    top: 0px;
+}
+
+#allt{
+    position: relative;
+    left: 20%;
+    right: 15%;
+    padding-top: 30px;
+    text-align: left;
+    width:65%;
+}
+
+.menulink:hover{
+    text-decoration: underline;
+}
+
+#menu{
+    position: fixed;
+    left: 0;
+    top: -20px;
+    border-right: 2px solid darkgrey;
+    width: 15%;
+    height: 100vh;
+    background-color: gainsboro;
+}
+
+.ulmenu{
+    list-style-type: none;
+    padding-left: 0;
+    margin-left: 0;
+
+}
+
+.imaget{
+    text-align: center;
+    margin-bottom: 0;
+}
+.header{
+    text-align: center;
+}
+
+.imgtitle{
+    text-align: center;
+    font-size: 14px;
+}
+
+#navig{
+    position: fixed;
+    right: 0;
+    top: 0;
+    text-align: center;
+    width:10%;
+    background-color: gainsboro;
+    height: 100vh;
+    border-left: 2px solid darkgrey;
+}
+
+.menuchoosen{
+    padding-top: 25px;
+    padding-bottom: 25px;
+    border-bottom: 2px solid darkgrey;
+    text-align: center;
+    background-color: slategrey;
+}
